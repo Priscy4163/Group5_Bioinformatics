@@ -120,6 +120,6 @@ Nasiba Ibrahim
 
 ## ACKNOWLEDGMENT
 
-* To begin with, am appreciating the Almighty God for this great opportunity to witness such a time in my life, my husband who laboured tirelessly and supported me by being patient with me and provided the finances for this work. Furthermore my course lecturer in the person of Dr. Umar Ahmad for this opportunity to learn which has made me believe that everything is workable and achievable. my gratitude goes to my fellow coursemates leaders of group two and seven for their helping hands, and my group members for their maximum co-operation.*
+* To begin with, am appreciating the Almighty God for this great opportunity to witness such a time in my life, my husband who laboured tirelessly and supported me by being patient with me and provided the finances for this work. Furthermore my course lecturer in the person of Dr. Umar Ahmad for this opportunity to learn which has made me believe that everything is workable and achievable. my gratitude goes to my fellow coursemates leaders of group two and seven for their helping hands, and my group members for their maximum co-operation. *
 
 
