@@ -1,6 +1,6 @@
 # INTRODUCTION TO BIOINFORMATICS TEST.
 
-
+## TABLE OF CONTENT
 ### Group Name.
 ### About the group.
 ### Names of all members.
@@ -14,7 +14,7 @@
 
 ## ABOUT THE GROUP
 
-Group five is comprising of fifteen members and is headed by ~Priscillia U. Faith~ who is assisted by ~Alamin Auwal~, we are working collectively as a team to achieve our aim and  are each developing our scripts using different programming languages.
+Group five is comprising of fifteen members and is headed by **Priscillia U. Faith** who is assisted by **Alamin Auwal**, we are working collectively as a team to achieve our aim and  are each developing our scripts using different programming languages.
 
 ## NAMES OF ALL MEMBERS.
 
