@@ -3,52 +3,52 @@
 ## TABLE OF CONTENT
 ### Group Name.
 ### About the group.
-### Names of all members.
-### Name and programming language used.
-### Pictures
-### Workflow.
-### Help.
-### Acknowledgement.
+### 1. Names of all members.
+### 2. Name and programming language used.
+### 2. Pictures
+### 4. Workflow.
+### 5. Help.
+### 6. Acknowledgement.
 
-## GROUP NAME: Group 5.
+*## GROUP NAME: Group 5.*
 
-## ABOUT THE GROUP
+*## ABOUT THE GROUP*
 
 Group five is comprising of fifteen members and is headed by **Priscillia U. Faith** who is assisted by **Alamin Auwal**, we are working collectively as a team to achieve our aim and  are each developing our scripts using different programming languages.
 
-## NAMES OF ALL MEMBERS.
+*## NAMES OF ALL MEMBERS.*
 
-Salihu S. Salihu.
+**1. Salihu S. Salihu.**
 
-Priscillia U. Faith
-.
-Aishatu Umar Haliru.
+**2. Priscillia U. Faith.**
 
-Yusuf Ibrahim.
+**3. Aishatu Umar Haliru.**
 
-Alamin Auwal.
+**4. Yusuf Ibrahim.**
 
-Abubakar M. Jingi.
+**5. Alamin Auwal.**
 
-Nasiba Ibrahim.
+**6. Abubakar M. Jingi.**
 
-Auwal Samaila.
+**7. Nasiba Ibrahim.**
 
-Basma Yusuf Zubairu.
+**8. Auwal Samaila.**
 
-Shuaibu A. Isah.
+**9. Basma Yusuf Zubairu.**
 
-Khadija Naseer.
+**10. Shuaibu A. Isah.**
 
-Balkisu Ayuba M.
+**11. Khadija Naseer.**
 
-Habiba Usman Adamu.
+**12. Balkisu Ayuba M.**
 
-Muawiya Adamu.
+**13. Habiba Usman Adamu.**
 
-Aishatu Dahiru.
+**14. Muawiya Adamu.**
 
-## NAME AND PROGRAMMING LANGUAGE USED.
+**15. Aishatu Dahiru.**
+
+*## NAME AND PROGRAMMING LANGUAGE USED.*
 
 | NAMES | PROGRAMMING LANGUAGE USED |
 | ------------- | ------------- |
@@ -70,7 +70,7 @@ Aishatu Dahiru.
 
 
 
-## PICTURES.
+*## PICTURES.*
 ![IMG-20211128-WA0030](https://user-images.githubusercontent.com/94042365/143781162-46b9b177-a5a6-496a-b92b-b2bd39ab7964.jpg)
 Aishatu Dahiru
 
