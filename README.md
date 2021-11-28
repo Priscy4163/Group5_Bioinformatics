@@ -1,4 +1,6 @@
-# Group5_Bioinformatics
+# INTRODUCTION TO BIOINFORMATICS TEST.
+
+
 ### Group Name.
 ### About the group.
 ### Names of all members.
@@ -12,24 +14,38 @@
 
 ## ABOUT THE GROUP
 
-Group 5 is comprising of fifteen members and is headed by Priscillia U. Faith who is assisted by Alamin Auwal.We are each developing our scripts using different programming languages.
+Group five is comprising of fifteen members and is headed by Priscillia U. Faith who is assisted by Alamin Auwal, we are working collectively as a team to achieve our aim and  are each developing our scripts using different programming languages.
 
 ## NAMES OF ALL MEMBERS.
 
 Salihu S. Salihu.
-Priscillia U. Faith.
+
+Priscillia U. Faith
+.
 Aishatu Umar Haliru.
+
 Yusuf Ibrahim.
-Alamin Awal.
+
+Alamin Auwal.
+
 Abubakar M. Jingi.
+
 Nasiba Ibrahim.
+
 Auwal Samaila.
+
 Basma Yusuf Zubairu.
+
 Shuaibu A. Isah.
+
 Khadija Naseer.
+
 Balkisu Ayuba M.
+
 Habiba Usman Adamu.
+
 Muawiya Adamu.
+
 Aishatu Dahiru.
 
 ## NAME AND PROGRAMMING LANGUAGE USED.
