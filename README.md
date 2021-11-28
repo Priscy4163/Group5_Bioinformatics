@@ -1,9 +1,9 @@
 # Group5_Bioinformatics
 ### Group Name.
-###About the groupa.
+### About the group.
 ### Names of all members.
 ### Name and programming language used.
-### PICTURES
+### Pictures
 ### Workflow.
 ### Help.
 ### Acknowledgement.
