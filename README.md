@@ -26,6 +26,11 @@ Basma Yusuf Zubairu.
 Shuaibu A. Isah.
 Khadija Naseer.
 Balkisu Ayuba M.
+
 Habiba Usman Adamu.
 Muawiya Adamu.
 Aishatu Dahiru.
+
+PICTURES.
+![IMG_20191228_115309_292](https://user-images.githubusercontent.com/94042365/143777702-88518469-c162-4ccf-b050-c47a6484eee8.jpg)
+
