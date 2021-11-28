@@ -10,13 +10,13 @@
 ### 5. Help.
 ### 6. Acknowledgement.
 
-*## GROUP NAME: Group 5.*
+## GROUP NAME: Group 5.
 
-*## ABOUT THE GROUP*
+## ABOUT THE GROUP
 
 Group five is comprising of fifteen members and is headed by **Priscillia U. Faith** who is assisted by **Alamin Auwal**, we are working collectively as a team to achieve our aim and  are each developing our scripts using different programming languages.
 
-*## NAMES OF ALL MEMBERS.*
+## NAMES OF ALL MEMBERS.
 
 **1. Salihu S. Salihu.**
 
@@ -48,7 +48,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 
 **15. Aishatu Dahiru.**
 
-*## NAME AND PROGRAMMING LANGUAGE USED.*
+## NAME AND PROGRAMMING LANGUAGE USED.
 
 | NAMES | PROGRAMMING LANGUAGE USED |
 | ------------- | ------------- |
@@ -70,7 +70,8 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 
 
 
-*## PICTURES.*
+
+## PICTURES.
 ![IMG-20211128-WA0030](https://user-images.githubusercontent.com/94042365/143781162-46b9b177-a5a6-496a-b92b-b2bd39ab7964.jpg)
 Aishatu Dahiru
 
