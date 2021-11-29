@@ -69,17 +69,6 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 | Aishatu Dahiru  | R  |
 
 
-## WORKFLOW
-
-![Uploading Group5_Bioinformatics.Rproj-page0001.jpg…]()
-
-
-
-
-
-
-
-
 
 ## PICTURES.
 ![IMG-20211128-WA0030](https://user-images.githubusercontent.com/94042365/143781162-46b9b177-a5a6-496a-b92b-b2bd39ab7964.jpg)
@@ -123,6 +112,14 @@ Alamin Auwal
 
 ![Nasiba Ibrahim](https://user-images.githubusercontent.com/94042365/143778732-a3f57dd4-d73a-4fd9-a1fc-9bee0f1f2cdb.jpg)
 Nasiba Ibrahim
+
+
+## WORKFLOW 
+
+![Group5_Bioinformatics Rproj-page0001](https://user-images.githubusercontent.com/94042365/143877454-3221f10d-e3e1-4552-9419-8ad7dd48fb67.jpg)
+
+
+
 
 ## HELP
 
