@@ -1,14 +1,14 @@
 # INTRODUCTION TO BIOINFORMATICS TEST.
 
 ## TABLE OF CONTENT
-### Group Name.
-### About the group.
-### 1. Names of all members.
-### 2. Name and programming language used.
-### 2. Pictures
-### 4. Workflow.
-### 5. Help.
-### 6. Acknowledgement.
+### 1.Group Name.
+### 2. About the group.
+### 3. Names of all members.
+### 4. Name and programming language used.
+### 5. Pictures
+### 6. Workflow.
+### 7. Help.
+### 8. Acknowledgement.
 
 ## GROUP NAME: Group 5.
 
@@ -30,7 +30,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 
 **6. Abubakar M. Jingi.**
 
-**7. Nasiba Ibrahim.**
+**7. Nasiba Abdulkadir I.**
 
 **8. Auwal Samaila.**
 
@@ -60,13 +60,23 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 | Abubakar M. Jingi  | Java script  |
 | Nasiba Ibrahim  | R |
 | Auwal Samaila  | R  |
-| Basma Yusuf Zubairu | Ruby  |
+| Basma Yusuf Zubairu | Java |
 | Shuaibu A. Isah  | Ruby  |
 | Khadija Naseer  | Python  |
 | Balkisu Ayuba M. | Python  |
 | Habiba U. Adamu  | PHP  |
 | Muawiya Adamu  | PHP |
 | Aishatu Dahiru  | R  |
+
+
+## WORKFLOW
+
+![Uploading Group5_Bioinformatics.Rproj-page0001.jpg…]()
+
+
+
+
+
 
 
 
