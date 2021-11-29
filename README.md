@@ -119,9 +119,8 @@ Nasiba Ibrahim
 ![Group5_Bioinformatics Rproj-page0001](https://user-images.githubusercontent.com/94042365/143877454-3221f10d-e3e1-4552-9419-8ad7dd48fb67.jpg)
 
 
-
-
 ## HELP
+I was assited by my assistant and other coursemates.
 
 
 
