@@ -3,7 +3,7 @@ echo cloning repository
 cd "${HOME}"
 
 groupName=Group5_Bioinformatics
-gitUrl=https://github.com/aliyubasug/Group5_Bioinformatics.git
+gitUrl=https://github.com/Priscy4163/Group5_Bioinformatics.git
 
 mkdir $groupName
 
