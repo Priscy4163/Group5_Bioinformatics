@@ -12,8 +12,7 @@
 ## GROUP NAME: Group 5 (Bioinformatics)
 
 ## ABOUT THE GROUP
-
-Group five is comprising of fifteen members and is headed by **Priscillia U. Faith** who is assisted by **Alamin Auwal**, we are working collectively as a team to achieve our aim and are each developing our scripts using different programming languages.
+This is a repository for the bioinformatics test assigned to Group five which is rather a collective work that will require the members to work collaborately to achieve the aim. The Readme.md contains information about the names of group members, programming language used and are each required to add their own scripts. 
 
 ## NAMES OF ALL MEMBERS.
 
