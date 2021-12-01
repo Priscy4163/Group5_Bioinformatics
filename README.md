@@ -71,7 +71,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 ![Group5_Bioinformatics Rproj-page0001](https://user-images.githubusercontent.com/94042365/144218345-120c9870-7505-42ec-8a06-180aa3cf17dd.jpg)
 
 ## HELP
-I was assited by my assistant and other coursemates.
+
 
 
 ## ACKNOWLEDGMENT
