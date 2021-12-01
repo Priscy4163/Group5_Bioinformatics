@@ -31,7 +31,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 
 **7. Nasiba Abdulkadir I.**
 
-**8. Auwal Samaila.**
+**8. Auwalu Samaila.**
 
 **9. Basma Yusuf Zubairu.**
 
@@ -58,7 +58,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 | Alamin Auwal  | Java script |
 | Abubakar M. Jingi  | Java script  |
 | Nasiba Ibrahim  | R |
-| Auwal Samaila  | R  |
+| Auwalu Samaila  | R  |
 | Basma Yusuf Zubairu | Java |
 | Shuaibu A. Isah  | Java  |
 | Khadija Naseer  | Python  |
@@ -68,6 +68,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 | Aishatu Dahiru  | R  |
 
 ## WORKFLOW
+![Group5_Bioinformatics Rproj-page0001](https://user-images.githubusercontent.com/94042365/144218345-120c9870-7505-42ec-8a06-180aa3cf17dd.jpg)
 
 ## HELP
 I was assited by my assistant and other coursemates.
