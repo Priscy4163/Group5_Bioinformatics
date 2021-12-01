@@ -71,6 +71,7 @@ Group five is comprising of fifteen members and is headed by **Priscillia U. Fai
 ![Group5_Bioinformatics Rproj-page0001](https://user-images.githubusercontent.com/94042365/144218345-120c9870-7505-42ec-8a06-180aa3cf17dd.jpg)
 
 ## HELP
+To run the scripts found in this repo, a sample script is provided containing informations on cloning the repository using the command git clone followed by the URL of the repo which will allow you clone it. After cloning,it will provide a command which will require you to change the repository. You need to make the scripts executable by adding the chmod +x command.
 
 
 
