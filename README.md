@@ -11,7 +11,7 @@
 ### 7. Acknowledgement.
 
 # ABOUT THE COURSE:
-Bioinformatics is an interdisciplinary field which harnesses computer science, mathematics, physics and biology. it uses computer programs for a variety of applicatuins including determining gene and protein functions, establishing evolutionary relationships and predicting the three dimensional shape of protein. It encompasses all aspects of biological information acquisition, processing, storage,distribution, analysis and interpretation of data.
+Bioinformatics is an interdisciplinary field which harnesses computer science, mathematics, physics and biology. it uses computer programs for a variety of applications including determining gene and protein functions, establishing evolutionary relationships and predicting the three dimensional shape of protein. It encompasses all aspects of biological information acquisition, processing, storage,distribution, analysis and interpretation of data.
 
 ## GROUP NAME: Group 5 (Bioinformatics)
 
@@ -80,6 +80,6 @@ To run the scripts found in this repo, a sample script is provided containing in
 
 ## ACKNOWLEDGMENT
 
- *To begin with, am appreciating the Almighty God for this great opportunity to witness such a time in my life, furthermore my course lecturer in the person of Dr. Umar Ahmad for this opportunity to learn which has made me believe that everything is workable and achievable. my gratitude goes to my fellow coursemates leaders of group two and seven for their helping hands, and my group members for their maximum co-operation*
+ *To begin with, am appreciating the Almighty God for this great opportunity to witness such a time in my life, furthermore my course lecturer in the person of Dr. Umar Ahmad for this opportunity to learn which has made me believe that everything is workable and achievable. my gratitude goes to my fellow coursemate leader of group seven for his helping hand, and my group members for their maximum co-operation*
 
 
