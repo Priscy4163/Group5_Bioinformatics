@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# Running a command that will clone the group's repository
+
+git clone https://github.com/Priscy4163/Group5_Bioinformatics.git
+
+I'm changing my working directory
+
+cd ./Gitfiles
+
+# I am now asking to generate a csv file
+
+chmod +x script*
+
+for i in $(ls script*)
+do
+    ./$i |awk -F ',' '{OFS="\t";print $1,$2,$3,$4,$5}' >> Group5repo.csv
+
+done
+
+# The files will be extracted successfully
+
+
