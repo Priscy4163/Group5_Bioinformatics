@@ -1,6 +1,7 @@
 # INTRODUCTION TO BIOINFORMATICS TEST.
 
 ## TABLE OF CONTENTS
+# IMPORTANT INFORMATION ABOUT THE BIOINFORMATICS COURSE.
 ### 1.Group Name.
 ### 2. About the group.
 ### 3. Names of all members.
@@ -8,6 +9,9 @@
 ### 5. Workflow.
 ### 6. Help.
 ### 7. Acknowledgement.
+
+# ABOUT THE COURSE:
+Bioinformatics is an interdisciplinary field which harnesses computer science, mathematics, physics and biology. it uses computer programs for a variety of applicatuins including determining gene and protein functions, establishing evolutionary relationships and predicting the three dimensional shape of protein. It encompasses all aspects of biological information acquisition, processing, storage,distribution, analysis and interpretation of data.
 
 ## GROUP NAME: Group 5 (Bioinformatics)
 
@@ -50,7 +54,7 @@ This is a repository for the bioinformatics test assigned to Group five which is
 
 | NAMES | PROGRAMMING LANGUAGE USED |
 | ------------- | ------------- |
-| Salihu S.Salihu | Bash  |
+| Salihu S.Salihu | PHP  |
 | Priscillia U. Faith  | Bash |
 | Aishatu Umar H.  | C++  |
 | Yusuf Ibrahim  | C++  |
